@@ -5,7 +5,7 @@ import BreezySwing.*;
 
 public class changecolor extends GBFrame{
 
-	static String a = "a";
+	static String a = "aaaaaaaaaaa";
 	static double frequency = .0000001;
 	static int i = 0;
 	static JFrame frm;
